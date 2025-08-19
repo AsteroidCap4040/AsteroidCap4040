@@ -27,6 +27,5 @@
 ---
 
 
-
-
+![Snake animation](https://github.com/AsteroidCap4040/AsteroidCap4040/blob/output/snake.svg)
 
